@@ -1,0 +1,15 @@
+[document]
+company-name = ""
+slide-size = "16:9"
+theme = "farbton"
+brand-logo-scale = "100"
+disable-smart-templates = "false"
+
+[settings]
+drawerPosition = 0.7
+textViewCursorLength = 154
+textViewCursorLocation = 19670
+textViewScrollPosition = 43364
+
+
+[overrides]
