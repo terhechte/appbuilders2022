@@ -8,5 +8,5 @@
 - Install [VSCode](https://code.visualstudio.com)
 - Install the following VSCode Extensions:
     - [VSCode Debugger](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb)
-    - [Rust Analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+    - [Rust Plugin](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
     - [Optional: Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
